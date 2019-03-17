@@ -1,3 +1,20 @@
 main {
+    display: flex;
+    flex-direction: column;
     flex-grow: 1;
+}
+
+.loader {
+  animation: spin 1s linear infinite;
+  border: 1vmin solid #f3f3f3; /* Light grey */
+  border-top: 1vmin solid #555; /* Blue */
+  border-radius: 50%;
+  height: calc(10px + 2vmin);
+  margin: auto;
+  width: calc(10px + 2vmin);
+}
+  
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
 }

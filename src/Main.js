@@ -13,7 +13,7 @@ class Main extends Component {
   }
 
   componentDidMount() {
-    fetch('/data/funko.json', {
+    fetch('data/funko.json', {
       headers : { 
         'Content-Type': 'application/json',
         'Accept': 'application/json'
@@ -21,7 +21,6 @@ class Main extends Component {
     })
       .then(response => response.json())
       .then(json => {
-        console.log(json);
         this.setState({
           fandoms: json,
           isLoading: false

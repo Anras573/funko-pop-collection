@@ -1,14 +1,14 @@
 {
-  "main.css": "/funko-pop-collection/static/css/main.5bdc62e7.chunk.css",
-  "main.js": "/funko-pop-collection/static/js/main.4915d01f.chunk.js",
-  "main.js.map": "/funko-pop-collection/static/js/main.4915d01f.chunk.js.map",
+  "main.css": "/funko-pop-collection/static/css/main.35637ecb.chunk.css",
+  "main.js": "/funko-pop-collection/static/js/main.c70a6af4.chunk.js",
+  "main.js.map": "/funko-pop-collection/static/js/main.c70a6af4.chunk.js.map",
   "runtime~main.js": "/funko-pop-collection/static/js/runtime~main.06b8ccbd.js",
   "runtime~main.js.map": "/funko-pop-collection/static/js/runtime~main.06b8ccbd.js.map",
   "static/js/2.4b8ce697.chunk.js": "/funko-pop-collection/static/js/2.4b8ce697.chunk.js",
   "static/js/2.4b8ce697.chunk.js.map": "/funko-pop-collection/static/js/2.4b8ce697.chunk.js.map",
   "index.html": "/funko-pop-collection/index.html",
-  "precache-manifest.48ff18c54b28bf4f5bce413434cea65f.js": "/funko-pop-collection/precache-manifest.48ff18c54b28bf4f5bce413434cea65f.js",
+  "precache-manifest.ccf253253ca00e5e4eea2f0b7159eb33.js": "/funko-pop-collection/precache-manifest.ccf253253ca00e5e4eea2f0b7159eb33.js",
   "service-worker.js": "/funko-pop-collection/service-worker.js",
-  "static/css/main.5bdc62e7.chunk.css.map": "/funko-pop-collection/static/css/main.5bdc62e7.chunk.css.map",
+  "static/css/main.35637ecb.chunk.css.map": "/funko-pop-collection/static/css/main.35637ecb.chunk.css.map",
   "static/media/logo.svg": "/funko-pop-collection/static/media/logo.5d5d9eef.svg"
 }

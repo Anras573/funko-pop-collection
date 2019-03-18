@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/funko-pop-collection/precache-manifest.48ff18c54b28bf4f5bce413434cea65f.js"
+  "/funko-pop-collection/precache-manifest.ccf253253ca00e5e4eea2f0b7159eb33.js"
 );
 
 workbox.clientsClaim();

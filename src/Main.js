@@ -12,6 +12,21 @@ class Main extends Component {
     };
   }
 
+  compareFandomNames(a, b) {
+    const nameA = a.name.toUpperCase();
+    const nameB = b.name.toUpperCase();
+
+    let comparison = 0;
+
+    if (nameA > nameB) {
+      comparison = 1;
+    } else if (nameA < nameB) {
+      comparison = -1;
+    }
+
+    return comparison;
+  }
+
   componentDidMount() {
     fetch('data/funko.json', {
       headers : { 
@@ -21,8 +36,10 @@ class Main extends Component {
     })
       .then(response => response.json())
       .then(json => {
+        let fandoms = json.sort(this.compareFandomNames);
+
         this.setState({
-          fandoms: json,
+          fandoms: fandoms,
           isLoading: false
         });
       }); 

@@ -1,5 +1,7 @@
 footer {
-    flex-shrink: 0;
+  background-color: #212429;
+  flex-shrink: 0;
+  width: 100%;
 }
 
 .react-logo {

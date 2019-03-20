@@ -138,6 +138,23 @@
                 "url": "https://www.funko.com/products/all/brands/pop-vinyl/pop-movies-harry-potter-albus-dumbledore",
                 "isVaulted": false,
                 "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/5891_HP_Dumbledore_hires.jpg?v=1510191791" 
+            },
+            {
+                "name": "Harry Potter",
+                "url": "",
+                "isVaulted": true,
+                "image_url": "images/hpfnpophpquid_d4abe8d4-493b-406b-950c-bf6378122833_530x@2x.jpg" 
+            }
+        ]
+    },
+    {
+        "name": "Back to the Future",
+        "pops": [
+            {
+                "name": "Dr. Emmet Brown",
+                "url": "",
+                "isVaulted": true,
+                "image_url": "images/2ec7ea58efc945bc5d6d60ed46d5113d.jpg"
             }
         ]
     },
@@ -149,6 +166,29 @@
                 "url": "https://www.funko.com/products/all/brands/pop-vinyl/pop-marvel-captain-america-3-black-panther",
                 "isVaulted": false,
                 "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/7229_CA3_Black_Panther_GLAM_HiRes.jpg?v=1510191512" 
+            },
+            {
+                "name": "Iron Man (Unmasked)",
+                "url": "",
+                "isVaulted": true,
+                "image_url": "images/iron_man_civil_war_HT.jpg" 
+            }
+        ]
+    },
+    {
+        "name": "Disney",
+        "pops": [
+            {
+                "name": "Tinker Bell",
+                "url": "https://www.funko.com/products/all/fandoms/disney/pop-disney-tinker-bell",
+                "isVaulted": false,
+                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/10_Tinkerbell_POP_GLAM.jpg?v=1510191984" 
+            },
+            {
+                "name": "Elsa",
+                "url": "https://www.funko.com/products/all/fandoms/disney/pop-disney-frozen-elsa",
+                "isVaulted": false,
+                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/4255_Frozen_Elsa_POP_GLAM_new_web.png?v=1539275852" 
             }
         ]
     },
@@ -192,19 +232,64 @@
         ]
     },
     {
-        "name": "Heroes",
+        "name": "Batman - Classic Series",
         "pops": [
             {
-                "name": "Superman",
-                "url": "https://www.funko.com/products/all/brands/pop-vinyl/pop-heroes-superman",
-                "isVaulted": false,
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/07_SupermanPopGlam.jpg?v=1510191970" 
-            },
+                "name": "Cat Woman 1966",
+                "url": "https://www.funko.com/products/all/brands/pop-vinyl/pop-heroes-cat-woman-1966",
+                "isVaulted": true,
+                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/Batman_66_TV_Cat_Woman_GLAM.jpg?v=1510191972" 
+            }
+        ]
+    },
+    {
+        "name": "DC Comics",
+        "pops": [
             {
                 "name": "Harley Quinn",
                 "url": "https://www.funko.com/products/all/brands/pop-vinyl/pop-heroes-harley-quinn",
                 "isVaulted": false,
                 "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/Harley_Quinn_POP_GLAM.jpg?v=1510191970" 
+            }
+        ]
+    },
+    {
+        "name": "DC Super Heroes",
+        "pops": [
+            {
+                "name": "Batman",
+                "url": "",
+                "isVaulted": true,
+                "image_url": "images/funkopopbatmanorangeversion.jpg"
+            },
+            {
+                "name": "The Joker Batman - Batman",
+                "url": "",
+                "isVaulted": true,
+                "image_url": "images/s-l640.jpg"
+            }
+        ]
+    },
+    {
+        "name": "DC Universe",
+        "pops": [
+            {
+                "name": "Batman",
+                "url": "",
+                "isVaulted": true,
+                "image_url": "images/batmanblue.jpeg"
+            },
+            {
+                "name": "Green Lantern",
+                "url": "",
+                "isVaulted": true,
+                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/09_GreenLanternPopGlam.jpg?v=1510191699"
+            },
+            {
+                "name": "Superman",
+                "url": "https://www.funko.com/products/all/brands/pop-vinyl/pop-heroes-superman",
+                "isVaulted": false,
+                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/07_SupermanPopGlam.jpg?v=1510191970" 
             },
             {
                 "name": "The Flash",
@@ -220,9 +305,9 @@
             },
             {
                 "name": "The Joker",
-                "url": "https://www.funko.com/products/all/brands/pop-vinyl/pop-heroes-the-joker",
-                "isVaulted": false,
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/06_JokerPopGlam.jpg?v=1510191971" 
+                "url": "",
+                "isVaulted": true,
+                "image_url": "images/funko-dc-universe-pop-heroes-the-joker-vinyl-figure-06-metallic-chase-11__05887.1462985112.jpg" 
             },
             {
                 "name": "Batman",
@@ -235,12 +320,6 @@
                 "url": "https://www.funko.com/products/all/brands/pop-vinyl/pop-heroes-robin",
                 "isVaulted": false,
                 "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/02_RobinPopGlam.jpg?v=1510191972" 
-            },
-            {
-                "name": "Cat Woman 1966",
-                "url": "https://www.funko.com/products/all/brands/pop-vinyl/pop-heroes-cat-woman-1966",
-                "isVaulted": true,
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/Batman_66_TV_Cat_Woman_GLAM.jpg?v=1510191972" 
             }
         ]
     },
@@ -367,7 +446,12 @@
                 "url": "https://www.funko.com/products/all/brands/pop-vinyl/pop-marvel-wolverine",
                 "isVaulted": false,
                 "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/WOLVERINE_POP_GLAM.jpg?v=1510191975" 
-            },
+            }
+        ]
+    },
+    {
+        "name": "Avengers - Age of Ultron",
+        "pops": [
             {
                 "name": "Scarlet Witch",
                 "url": "https://www.funko.com/products/all/brands/pop-vinyl/pop-marvel-scarlet-witch",
@@ -377,7 +461,7 @@
         ]
     },
     {
-        "name": "Star Wars",
+        "name":"Star Wars - the Force Awakens",
         "pops": [
             {
                 "name": "BB-8",
@@ -390,6 +474,12 @@
                 "url": "https://www.funko.com/products/all/fandoms/star-wars/copy-of-pop-star-wars-kylo-ren",
                 "isVaulted": false,
                 "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/6228_SW_Chewbacca_GLAM.jpg?v=1510191605" 
+            },
+            {
+                "name": "Han Solo",
+                "url": "",
+                "isVaulted": true,
+                "image_url": "images/loot-crate-exclusive-funko-pop-86-star-wars-han-solo-in-snow-gear-the-force-awakens__41DXN21iugL.jpg" 
             },
             {
                 "name": "Finn",
@@ -410,6 +500,29 @@
                 "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/6222_SW_Poe_GLAM.jpg?v=1510191606" 
             },
             {
+                "name": "Rey",
+                "url": "",
+                "isVaulted": true,
+                "image_url": "images/rey_with_googles.jpeg"
+            },
+            {
+                "name": "Rey",
+                "url": "",
+                "isVaulted": true,
+                "image_url": "images/51rMFBJ1cpL._SX355_.jpg"
+            },
+            {
+                "name": "Rey with Lightsaber",
+                "url": "",
+                "isVaulted": false,
+                "image_url": "images/9618.png"
+            }
+        ]
+    },
+    {
+        "name": "Star Wars",
+        "pops": [
+            {
                 "name": "Luke Pilot",
                 "url": "https://www.funko.com/products/all/fandoms/star-wars/pop-star-wars-luke-pilot",
                 "isVaulted": true,
@@ -420,12 +533,6 @@
                 "url": "https://www.funko.com/products/all/fandoms/star-wars/pop-star-wars-jabba-the-hutt",
                 "isVaulted": false,
                 "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/Jabba-POP_GLAM.jpg?v=1510192030" 
-            },
-            {
-                "name": "Rey with Lightsaber",
-                "url": "https://www.funko.com/products/all/brands/pop-vinyl/pop-star-wars-rey-with-lightsaber",
-                "isVaulted": true,
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/9618_StarWars_ReyLightsaber_GLAM_HiRes.jpg?v=1510191382" 
             }
         ]
     }

@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/funko-pop-collection/static/js/runtime~main.06b8ccbd.js"
   },
   {
-    "revision": "62a324f1ea9bb2e7dc45",
+    "revision": "b17e1ede20db398bb553",
     "url": "/funko-pop-collection/static/js/main.76483ce3.chunk.js"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/funko-pop-collection/static/js/2.479927cb.chunk.js"
   },
   {
-    "revision": "62a324f1ea9bb2e7dc45",
-    "url": "/funko-pop-collection/static/css/main.ff38ed98.chunk.css"
+    "revision": "b17e1ede20db398bb553",
+    "url": "/funko-pop-collection/static/css/main.eb82744e.chunk.css"
   },
   {
-    "revision": "c3ac693828591f075f7778f2ebf59357",
+    "revision": "aefb680df87be0883149f68caad46aaf",
     "url": "/funko-pop-collection/index.html"
   }
 ];

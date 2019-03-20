@@ -1,9 +1,16 @@
-import React from 'react';
+import React, { Component } from 'react';
 import Pop from './Pop';
 import './Fandom.css';
 
-function Fandom(props) {
-  function comparePopNames(a, b) {
+class Fandom extends Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {opened: true}
+    this.handleClick = this.handleClick.bind(this);
+  }
+
+  comparePopNames(a, b) {
     const nameA = a.name.toUpperCase();
     const nameB = b.name.toUpperCase();
 
@@ -18,18 +25,31 @@ function Fandom(props) {
     return comparison;
   }
 
-  const fandom = props.fandom;
-  const pops = fandom.pops.sort(comparePopNames).map((pop, index) => 
+ 
+
+  handleClick(){
+    this.setState(state => ({
+      opened: !state.opened
+    }));
+  }
+
+  render() {
+    const fandom = this.props.fandom;
+    const pops = fandom.pops.sort(this.comparePopNames).map((pop, index) => 
       <Pop key={index} pop={pop} />
-  );
-  return (
-    <div className="row">
-      <strong>{fandom.name}</strong>
-      <div className="cards">
-        {pops}
-      </div>  
-    </div>
-  );
+    );
+    const cardsClassName = this.state.opened ? "cards" : "cards hidden";
+    const collapsibleClassName = this.state.opened ? "collapsible opened" : "collapsible closed";
+
+    return (
+      <div className="row">
+        <button className={collapsibleClassName} onClick={this.handleClick}>{fandom.name}</button>
+        <div className={cardsClassName}>
+          {pops}
+        </div>  
+      </div>
+    );
+  };
 }
 
 export default Fandom;

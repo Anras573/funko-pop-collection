@@ -34,15 +34,15 @@ class Main extends Component {
         'Accept': 'application/json'
        }
     })
-      .then(response => response.json())
-      .then(json => {
-        let fandoms = json.sort(this.compareFandomNames);
+    .then(response => response.json())
+    .then(json => {
+      let fandoms = json.sort(this.compareFandomNames);
 
-        this.setState({
-          fandoms: fandoms,
-          isLoading: false
-        });
-      }); 
+      this.setState({
+        fandoms: fandoms,
+        isLoading: false
+      });
+    });
   }
 
   render() {
@@ -58,7 +58,7 @@ class Main extends Component {
     }
     return (
       <main>
-          {content}
+        {content}
       </main>
     );
   }

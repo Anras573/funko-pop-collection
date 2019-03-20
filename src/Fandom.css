@@ -1,9 +1,44 @@
 .cards {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.collapsible {
+  background-color: #25282F;
+  border: 2px solid #282c34;
+  color: white;
+  height: 5vh;
+  padding: 0;
+  width: 100%;
+}
+
+.opened:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  color: white;
+  float: right;
+  margin-right: 5px;
+}
+
+.closed:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
+  color: white;
+  float: right;
+  margin-right: 5px;
+}
+
+.collapsible:hover, .collapsible:focus {
+  outline: none;
+}
+
+.collapsible:hover {
+  cursor: pointer;
 }
 
 .row {
   flex-direction: column;
+}
+
+.hidden {
+  display: none;
 }

@@ -5,9 +5,7 @@ class Header extends Component {
   render() {
     return (
       <header>
-        <strong>
-          Funko Pop Collection
-        </strong>
+        <strong>Funko Pop Collection</strong>
       </header>
     );
   }

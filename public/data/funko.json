@@ -338,8 +338,21 @@
                 "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/DeadPool_POP_GLAM.jpg?v=1510191974" 
             },
             {
+                "name": "Deadpool (With Swords)",
+                "image_url": "images/marvel/deadpool_with_swords.jpg" 
+            },
+            {
                 "name": "Wolverine",
                 "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/WOLVERINE_POP_GLAM.jpg?v=1510191975" 
+            }
+        ]
+    },
+    {
+        "name": "Naruto",
+        "pops": [
+            {
+                "name": "Naruto (With Rasengan)",
+                "image_url": "images/naruto/naruto_with_rasengan.jpg" 
             }
         ]
     },
@@ -422,6 +435,10 @@
     {
         "name": "Game of Thrones",
         "pops": [
+            {
+                "name": "Bran Stark",
+                "image_url": "images/game_of_thrones/bran_stark.jpg"
+            },
             {
                 "name": "Daenerys Targaryen",
                 "image_url": "images/Game_of_ThronesDaenerysGLAM.jpg"

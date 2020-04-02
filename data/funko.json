@@ -4,23 +4,31 @@
         "pops": [
             {
                 "name": "Triss",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/12135_Witcher_Triss_GLAM_HiRes.jpg?v=1478799868" 
+                "image_url": "images/The Witcher/Triss.jpg" 
             },
             {
                 "name": "Geralt",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/12134_Witcher_Geralt_GLAM_HiRes.jpg?v=1478799787" 
+                "image_url": "images/The Witcher/Geralt.jpg" 
             },
             {
                 "name": "Ciri",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/12133_Witcher_Ciri_GLAM_HiRes.jpg?v=1478799603" 
+                "image_url": "images/The Witcher/Ciri.jpg" 
             },
             {
                 "name": "Yennefer",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/12132_Witcher_Yennefer_GLAM_HiRes.jpg?v=1478799554" 
+                "image_url": "images/The Witcher/Yennefer.jpg" 
             },
             {
                 "name": "Eredin",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/12131_Witcher_EREDIN_GLAM_HiRes.jpg?v=1478799458" 
+                "image_url": "images/The Witcher/Eredin.jpg" 
+            },
+            {
+                "name": "Geralt (Igni)",
+                "image_url": "images/The Witcher/Geralt (Igni).png" 
+            },
+            {
+                "name": "Ciri (Glow in the Dark)",
+                "image_url": "images/The Witcher/Ciri (Glow in the Dark).jpg" 
             }
         ]
     },
@@ -29,23 +37,23 @@
         "pops": [
             {
                 "name": "Durotan",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/7468_Warcraft_Durotan_GLAM.jpg?v=1510191438" 
+                "image_url": "images/Warcraft - The Movie/Durotan.jpg" 
             },
             {
                 "name": "Garona",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/7469_WoW_Garona_POP_hires.jpg?v=1510191438" 
+                "image_url": "images/Warcraft - The Movie/Garona.jpg" 
             },
             {
                 "name": "King Llane",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/7470_WoW_King_Llane_hires.jpg?v=1510191437" 
+                "image_url": "images/Warcraft - The Movie/King Llane.jpg" 
             },
             {
                 "name": "Lothar",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/7471_Warcraft_Lothar_GLAM.jpg?v=1510191437" 
+                "image_url": "images/Warcraft - The Movie/Lothar.jpg" 
             },
             {
                 "name": "Orgrim",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/7472_WoW_Orgrim_hires.jpg?v=1510191437" 
+                "image_url": "images/Warcraft - The Movie/Orgrim.jpg" 
             }
         ]
     },
@@ -54,7 +62,7 @@
         "pops": [
             {
                 "name": "Kratos",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/27031_GodofWar_Kratos_POPGames_GLAM.png?v=1512499075" 
+                "image_url": "images/God of War/Kratos.png" 
             }
         ]
     },
@@ -63,11 +71,11 @@
         "pops": [
             {
                 "name": "Illidan",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/3374_Illidan_POP_GLAM_Reg.jpg?v=1510192103" 
+                "image_url": "images/World of Warcraft/Illidan.jpg" 
             },
             {
                 "name": "Lady Sylvanas",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/4010_Lady_Sylvanas_forsite.jpg?v=1510191897" 
+                "image_url": "images/World of Warcraft/Lady Sylvanas.jpg" 
             }
         ]
     },
@@ -76,7 +84,7 @@
         "pops": [
             {
                 "name": "Sheldon Green Lantern Shirt",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/SheldonPOPGlam.jpg?v=1510192068" 
+                "image_url": "images/The Big Bang Theory/Sheldon Green Lantern Shirt.jpg" 
             }
         ]
     },
@@ -85,7 +93,7 @@
         "pops": [
             {
                 "name": "Commander Shepard",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/Mass_Effect_Shepard_POP_GLAM.jpg?v=1510192034" 
+                "image_url": "images/Mass Effect/Commander Shepard.jpg" 
             }
         ]
     },
@@ -94,7 +102,7 @@
         "pops": [
             {
                 "name": "Vault Boy",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/5853_Fallout_Vault_Boy_hires.jpg?v=1510191784" 
+                "image_url": "images/Fallout/Vault Boy.jpg" 
             }
         ]
     },
@@ -103,11 +111,11 @@
         "pops": [
             {
                 "name": "Albus Dumbledore",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/5891_HP_Dumbledore_hires.jpg?v=1510191791" 
+                "image_url": "images/Harry Potter/Albus Dumbledore.jpg" 
             },
             {
                 "name": "Harry Potter",
-                "image_url": "images/hpfnpophpquid_d4abe8d4-493b-406b-950c-bf6378122833_530x@2x.jpg" 
+                "image_url": "images/Harry Potter/Harry Potter.jpg" 
             }
         ]
     },
@@ -116,7 +124,7 @@
         "pops": [
             {
                 "name": "Dr. Emmet Brown",
-                "image_url": "images/2ec7ea58efc945bc5d6d60ed46d5113d.jpg"
+                "image_url": "images/Back to the Future/Dr. Emmet Brown.jpg"
             }
         ]
     },
@@ -125,11 +133,11 @@
         "pops": [
             {
                 "name": "Black Panther",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/7229_CA3_Black_Panther_GLAM_HiRes.jpg?v=1510191512" 
+                "image_url": "images/Captain America 3/Black Panther.jpg" 
             },
             {
                 "name": "Iron Man (Unmasked)",
-                "image_url": "images/iron_man_civil_war_HT.jpg" 
+                "image_url": "images/Captain America 3/Iron Man (Unmasked).jpg" 
             }
         ]
     },
@@ -138,11 +146,11 @@
         "pops": [
             {
                 "name": "Tinker Bell",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/10_Tinkerbell_POP_GLAM.jpg?v=1510191984" 
+                "image_url": "images/Disney/Tinker Bell.jpg" 
             },
             {
                 "name": "Elsa",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/4255_Frozen_Elsa_POP_GLAM_new_web.png?v=1539275852" 
+                "image_url": "images/Disney/Elsa.png" 
             }
         ]
     },
@@ -151,7 +159,7 @@
         "pops": [
             {
                 "name": "Nathan Drake",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/8636_Uncharted_NathanDrake_GLAM_HiRes.jpg?v=1510191507" 
+                "image_url": "images/Uncharted/Nathan Drake.jpg" 
             }
         ]
     },
@@ -160,7 +168,7 @@
         "pops": [
             {
                 "name": "Spock",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/10487_ST_Beyond_Spock_hires.jpeg?v=1510191363" 
+                "image_url": "images/Star Trek Beyond/Spock.jpeg" 
             }
         ]
     },
@@ -169,11 +177,11 @@
         "pops": [
             {
                 "name": "Carl",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/Carl_Walking_Dead.jpg?v=1510191946" 
+                "image_url": "images/The Walking Dead/Carl.jpg" 
             },
             {
                 "name": "Daryl Dixon's Chopper",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/4713_DarylBikerPOPGlam.jpg?v=1510191832" 
+                "image_url": "images/The Walking Dead/Daryl Dixon's Chopper.jpg" 
             }
         ]
     },
@@ -182,7 +190,7 @@
         "pops": [
             {
                 "name": "Cat Woman 1966",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/Batman_66_TV_Cat_Woman_GLAM.jpg?v=1510191972" 
+                "image_url": "images/Batman - Classic Series/Cat Woman 1966.jpg" 
             }
         ]
     },
@@ -191,7 +199,7 @@
         "pops": [
             {
                 "name": "Harley Quinn",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/Harley_Quinn_POP_GLAM.jpg?v=1510191970" 
+                "image_url": "images/DC Comics/Harley Quinn.jpg" 
             }
         ]
     },
@@ -199,16 +207,16 @@
         "name": "DC Super Heroes",
         "pops": [
             {
-                "name": "Batman",
-                "image_url": "images/funkopopbatmanorangeversion.jpg"
+                "name": "Batman (Orange)",
+                "image_url": "images/DC Super Heroes/Batman (Orange).jpg"
             },
             {
                 "name": "Batman Who Laughs",
-                "image_url": "images/49808-dc-comics-batman-who-laughs-pop-heroes-vinyl-figur-256.jpg"
+                "image_url": "images/DC Super Heroes/Batman Who Laughs.jpg"
             },
             {
                 "name": "The Joker Batman - Batman",
-                "image_url": "images/s-l640.jpg"
+                "image_url": "images/DC Super Heroes/The Joker Batman - Batman.jpg"
             }
         ]
     },
@@ -216,36 +224,36 @@
         "name": "DC Universe",
         "pops": [
             {
-                "name": "Batman",
-                "image_url": "images/batmanblue.jpeg"
+                "name": "Batman (Blue)",
+                "image_url": "images/DC Universe/Batman (Blue).jpeg"
             },
             {
                 "name": "Green Lantern",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/09_GreenLanternPopGlam.jpg?v=1510191699"
+                "image_url": "images/DC Universe/Green Lantern.jpg"
             },
             {
                 "name": "Superman",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/07_SupermanPopGlam.jpg?v=1510191970" 
+                "image_url": "images/DC Universe/Superman.jpg" 
             },
             {
                 "name": "The Flash",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/10_FlashPopGlam.jpg?v=1510191971" 
+                "image_url": "images/DC Universe/The Flash.jpg" 
             },
             {
                 "name": "Wonder Woman",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/08_WonderWomanPopGlam.jpg?v=1510191971" 
+                "image_url": "images/DC Universe/Wonder Woman.jpg" 
             },
             {
                 "name": "The Joker",
-                "image_url": "images/funko-dc-universe-pop-heroes-the-joker-vinyl-figure-06-metallic-chase-11__05887.1462985112.jpg" 
+                "image_url": "images/DC Universe/The Joker.jpg" 
             },
             {
                 "name": "Batman",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/BatmanPOP.jpg?v=1510191971" 
+                "image_url": "images/DC Universe/Batman.jpg" 
             },
             {
                 "name": "Robin",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/02_RobinPopGlam.jpg?v=1510191972" 
+                "image_url": "images/DC Universe/Robin.jpg" 
             }
         ]
     },
@@ -254,19 +262,19 @@
         "pops": [
             {
                 "name": "Rose",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/14754_SWEP8_Rose_POP_GLAM_HighRes.jpg?v=1504197168" 
+                "image_url": "images/Star Wars - the Last Jedi/Rose.jpg" 
             },
             {
                 "name": "Poe Dameron",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/14747_SWEP8_PoeDameron_POP_GLAM_HiRes.jpg?v=1504195970" 
+                "image_url": "images/Star Wars - the Last Jedi/Poe Dameron.jpg" 
             },
             {
                 "name": "Finn",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/14744_SWEP8_Finn_POP_GLAM_HiRes.jpg?v=1504195631" 
+                "image_url": "images/Star Wars - the Last Jedi/Finn.jpg" 
             },
             {
                 "name": "Supreme Leader Snoke",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/14750_SWEP8_Snoke_POP_GLAM_HighRes.jpg?v=1504196288" 
+                "image_url": "images/Star Wars - the Last Jedi/Supreme Leader Snoke.jpg" 
             }
         ]
     },
@@ -275,15 +283,15 @@
         "pops": [
             {
                 "name": "K-2SO",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/10454_RogueOne_K-2S0_GLAM_HiRes.jpg?v=1510191293" 
+                "image_url": "images/Star Wars - Rogue One/K-2SO.jpg" 
             },
             {
                 "name": "Captain Cassian Andor",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/10452_RogueOne_Capt_Cassian_Andor_Mountain_GLAM_HiRes.jpg?v=1510191294" 
+                "image_url": "images/Star Wars - Rogue One/Captain Cassian Andor.jpg" 
             },
             {
                 "name": "Jyn Erso",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/10449_RogueOne_Jyn_Erso_GLAM_HiRes.jpg?v=1510191294" 
+                "image_url": "images/Star Wars - Rogue One/Jyn Erso.jpg" 
             }
         ]
     },
@@ -292,11 +300,11 @@
         "pops": [
             {
                 "name": "Weaponized Morty",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/12440_RickMorty_Weaponized_Morty_GLAM_HiRes.jpg?v=1487186797" 
+                "image_url": "images/Rick and Morty/Weaponized Morty.jpg" 
             },
             {
                 "name": "Weaponized Rick",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/12439_RickMorty_Weaponized_Rick_GLAM_HiRes.jpg?v=1487186740" 
+                "image_url": "images/Rick and Morty/Weaponized Rick.jpg" 
             }
         ]
     },
@@ -305,15 +313,15 @@
         "pops": [
             {
                 "name": "Star Lord",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/GotG_Star_Lord_With_Hemet_POP.jpg?v=1510192006" 
+                "image_url": "images/Guardians of the Galaxy/Star Lord.jpg" 
             },
             {
                 "name": "Groot",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/GotG_Groot_POP.jpg?v=1510192005" 
+                "image_url": "images/Guardians of the Galaxy/Groot.jpg" 
             },
             {
                 "name": "Dancing Groot",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/5104_Dancing_Groot_GLAM.jpg?v=1510191888" 
+                "image_url": "images/Guardians of the Galaxy/Dancing Groot.jpg" 
             }
         ]
     },
@@ -322,11 +330,11 @@
         "pops": [
             {
                 "name": "Rocket",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/13270_GOTG2_Rocket_POP_GLAM_HiRes.jpg?v=1483557108" 
+                "image_url": "images/Guardians of the Galaxy Vol. 2/Rocket.jpg" 
             },
             {
                 "name": "Groot",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/13230_GOTG2_Groot_POP_GLAM_HiRes.jpg?v=1483557041" 
+                "image_url": "images/Guardians of the Galaxy Vol. 2/Groot.jpg" 
             }
         ]
     },
@@ -335,15 +343,15 @@
         "pops": [
             {
                 "name": "Deadpool",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/DeadPool_POP_GLAM.jpg?v=1510191974" 
+                "image_url": "images/Marvel/Deadpool.jpg" 
             },
             {
                 "name": "Deadpool (With Swords)",
-                "image_url": "images/marvel/deadpool_with_swords.jpg" 
+                "image_url": "images/Marvel/Deadpool (With Swords).jpg" 
             },
             {
                 "name": "Wolverine",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/WOLVERINE_POP_GLAM.jpg?v=1510191975" 
+                "image_url": "images/Marvel/Wolverine.jpg" 
             }
         ]
     },
@@ -352,7 +360,11 @@
         "pops": [
             {
                 "name": "Naruto (With Rasengan)",
-                "image_url": "images/naruto/naruto_with_rasengan.jpg" 
+                "image_url": "images/Naruto/Naruto (With Rasengan).jpg" 
+            },
+            {
+                "name": "Kakashi",
+                "image_url": "images/Naruto/Kakashi.jpg"
             }
         ]
     },
@@ -361,7 +373,7 @@
         "pops": [
             {
                 "name": "Scarlet Witch",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/4779_ScarletWitch_hires.jpg?v=1510191787" 
+                "image_url": "images/Avengers - Age of Ultron/Scarlet Witch.jpg" 
             }
         ]
     },
@@ -370,11 +382,11 @@
         "pops": [
             {
                 "name": "Captain Marvel",
-                "image_url": "images/3max.jpg" 
+                "image_url": "images/Avengers - Endgame/Captain Marvel.jpg" 
             },
             {
                 "name": "Thanos",
-                "image_url": "images/thanos.jpg"
+                "image_url": "images/Avengers - Endgame/Thanos.jpg"
             }
         ]
     },
@@ -383,39 +395,39 @@
         "pops": [
             {
                 "name": "BB-8",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/6218_SW_BB8_GLAM_grande_acf6e66d-b6ea-474d-ac4f-83676ff83043.jpg?v=1477418674" 
+                "image_url": "images/Star Wars - the Force Awakens/BB-8.jpg" 
             },
             {
                 "name": "Chewbacca",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/6228_SW_Chewbacca_GLAM.jpg?v=1510191605" 
+                "image_url": "images/Star Wars - the Force Awakens/Chewbacca.jpg" 
             },
             {
                 "name": "Han Solo",
-                "image_url": "images/loot-crate-exclusive-funko-pop-86-star-wars-han-solo-in-snow-gear-the-force-awakens__41DXN21iugL.jpg" 
+                "image_url": "images/Star Wars - the Force Awakens/Han Solo.jpg" 
             },
             {
                 "name": "Finn",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/6221_SW_Finn_GLAM.jpg?v=1510191607" 
+                "image_url": "images/Star Wars - the Force Awakens/Finn.jpg" 
             },
             {
                 "name": "First Order Stormtrooper",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/6225_SW_Trooper_white_GLAM.jpg?v=1510191605" 
+                "image_url": "images/Star Wars - the Force Awakens/First Order Stormtrooper.jpg" 
             },
             {
                 "name": "Poe Dameron",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/6222_SW_Poe_GLAM.jpg?v=1510191606" 
+                "image_url": "images/Star Wars - the Force Awakens/Poe Dameron.jpg" 
             },
             {
                 "name": "Rey",
-                "image_url": "images/rey_with_googles.jpeg"
+                "image_url": "images/Star Wars - the Force Awakens/Rey.jpeg"
             },
             {
                 "name": "Rey",
-                "image_url": "images/51rMFBJ1cpL._SX355_.jpg"
+                "image_url": "images/Star Wars - the Force Awakens/Rey2.jpg"
             },
             {
                 "name": "Rey with Lightsaber",
-                "image_url": "images/9618.png"
+                "image_url": "images/Star Wars - the Force Awakens/Rey with Lightsaber.png"
             }
         ]
     },
@@ -424,11 +436,11 @@
         "pops": [
             {
                 "name": "Luke Pilot",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/X-WingPOP_GLAM.jpg?v=1510192031" 
+                "image_url": "images/Star Wars/Luke Pilot.jpg" 
             },
             {
                 "name": "Jabba the Hutt",
-                "image_url": "https://cdn.shopify.com/s/files/1/0552/1401/products/Jabba-POP_GLAM.jpg?v=1510192030" 
+                "image_url": "images/Star Wars/Jabba the Hutt.jpg" 
             }
         ]
     },
@@ -437,19 +449,37 @@
         "pops": [
             {
                 "name": "Bran Stark",
-                "image_url": "images/game_of_thrones/bran_stark.jpg"
+                "image_url": "images/Game of Thrones/Bran Stark.jpg"
             },
             {
                 "name": "Daenerys Targaryen",
-                "image_url": "images/Game_of_ThronesDaenerysGLAM.jpg"
+                "image_url": "images/Game of Thrones/Daenerys Targaryen.jpg"
             },
             {
                 "name": "Jon Snow",
-                "image_url": "images/got-jonsnow.jpg"
+                "image_url": "images/Game of Thrones/Jon Snow.jpg"
             },
             {
                 "name": "Tyrion Lannister",
-                "image_url": "images/got-tyrionlannister.jpg"
+                "image_url": "images/Game of Thrones/Tyrion Lannister.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Attack on Titan",
+        "pops": [
+            {
+                "name": "Kenny",
+                "image_url": "images/Attack on Titan/Kenny.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Star Wars - the Mandalorian",
+        "pops": [
+            {
+                "name": "IG-11",
+                "image_url": "images/Star Wars - the Mandalorian/IG-11.jpg"
             }
         ]
     }

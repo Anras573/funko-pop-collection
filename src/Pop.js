@@ -5,7 +5,7 @@ function Pop(props) {
   const pop = props.pop;
   return (
     <div className="card">
-      <img src={pop.image_url} alt={pop.name}></img>
+      <img src={pop.image_url} loading="lazy" alt={pop.name}></img>
       <strong>{pop.name}</strong>
     </div>
   );

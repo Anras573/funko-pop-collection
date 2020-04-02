@@ -6,7 +6,7 @@ class Footer extends Component {
   render() {
     return (
       <footer>
-        <img src={logo} className="react-logo" alt="logo" />
+        <img src={logo} className="react-logo" loading="lazy" alt="logo" />
         <span>Made with react</span>
       </footer>
     );

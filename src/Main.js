@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import Fandom from './Fandom';
+import SortByName from './Utilities/SortHelper'
+import Fandom from './Components/Fandom';
 import './Main.css';
 
 class Main extends Component {
@@ -12,21 +13,6 @@ class Main extends Component {
     };
   }
 
-  compareFandomNames(a, b) {
-    const nameA = a.name.toUpperCase();
-    const nameB = b.name.toUpperCase();
-
-    let comparison = 0;
-
-    if (nameA > nameB) {
-      comparison = 1;
-    } else if (nameA < nameB) {
-      comparison = -1;
-    }
-
-    return comparison;
-  }
-
   componentDidMount() {
     fetch('data/funko.json', {
       headers : { 
@@ -36,7 +22,7 @@ class Main extends Component {
     })
     .then(response => response.json())
     .then(json => {
-      let fandoms = json.sort(this.compareFandomNames);
+      let fandoms = json.sort(SortByName);
 
       this.setState({
         fandoms: fandoms,
@@ -47,6 +33,7 @@ class Main extends Component {
 
   render() {
     let content;
+
     if (this.state.isLoading) {
       content = <div className="loader"></div>;
     } else {
@@ -56,6 +43,7 @@ class Main extends Component {
         );
       });
     }
+    
     return (
       <main>
         {content}

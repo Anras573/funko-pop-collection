@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import SortByName from '../../Utilities/SortHelper';
 import Pop from './Pop';
 import './Fandom.css';
 
@@ -6,26 +7,9 @@ class Fandom extends Component {
   constructor(props) {
     super(props);
 
-    this.state = {opened: true}
+    this.state = { opened: false }
     this.handleClick = this.handleClick.bind(this);
   }
-
-  comparePopNames(a, b) {
-    const nameA = a.name.toUpperCase();
-    const nameB = b.name.toUpperCase();
-
-    let comparison = 0;
-
-    if (nameA > nameB) {
-      comparison = 1;
-    } else if (nameA < nameB) {
-      comparison = -1;
-    }
-
-    return comparison;
-  }
-
- 
 
   handleClick(){
     this.setState(state => ({
@@ -35,7 +19,7 @@ class Fandom extends Component {
 
   render() {
     const fandom = this.props.fandom;
-    const pops = fandom.pops.sort(this.comparePopNames).map((pop, index) => 
+    const pops = fandom.pops.sort(SortByName).map((pop, index) => 
       <Pop key={index} pop={pop} />
     );
     const cardsClassName = this.state.opened ? "cards" : "cards hidden";

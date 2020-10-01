@@ -1,14 +1,23 @@
 {
-  "main.css": "/funko-pop-collection/static/css/main.eb82744e.chunk.css",
-  "main.js": "/funko-pop-collection/static/js/main.b8b0458c.chunk.js",
-  "main.js.map": "/funko-pop-collection/static/js/main.b8b0458c.chunk.js.map",
-  "runtime~main.js": "/funko-pop-collection/static/js/runtime~main.06b8ccbd.js",
-  "runtime~main.js.map": "/funko-pop-collection/static/js/runtime~main.06b8ccbd.js.map",
-  "static/js/2.479927cb.chunk.js": "/funko-pop-collection/static/js/2.479927cb.chunk.js",
-  "static/js/2.479927cb.chunk.js.map": "/funko-pop-collection/static/js/2.479927cb.chunk.js.map",
-  "index.html": "/funko-pop-collection/index.html",
-  "precache-manifest.bccf1b4aa0d253d0591bb6635cb4c528.js": "/funko-pop-collection/precache-manifest.bccf1b4aa0d253d0591bb6635cb4c528.js",
-  "service-worker.js": "/funko-pop-collection/service-worker.js",
-  "static/css/main.eb82744e.chunk.css.map": "/funko-pop-collection/static/css/main.eb82744e.chunk.css.map",
-  "static/media/logo.svg": "/funko-pop-collection/static/media/logo.5d5d9eef.svg"
+  "files": {
+    "main.css": "/funko-pop-collection/static/css/main.a95a05af.chunk.css",
+    "main.js": "/funko-pop-collection/static/js/main.bb111543.chunk.js",
+    "main.js.map": "/funko-pop-collection/static/js/main.bb111543.chunk.js.map",
+    "runtime-main.js": "/funko-pop-collection/static/js/runtime-main.7b6c5b51.js",
+    "runtime-main.js.map": "/funko-pop-collection/static/js/runtime-main.7b6c5b51.js.map",
+    "static/js/2.c88418dc.chunk.js": "/funko-pop-collection/static/js/2.c88418dc.chunk.js",
+    "static/js/2.c88418dc.chunk.js.map": "/funko-pop-collection/static/js/2.c88418dc.chunk.js.map",
+    "index.html": "/funko-pop-collection/index.html",
+    "precache-manifest.27b66b380bc46b955973e5bdd06565e1.js": "/funko-pop-collection/precache-manifest.27b66b380bc46b955973e5bdd06565e1.js",
+    "service-worker.js": "/funko-pop-collection/service-worker.js",
+    "static/css/main.a95a05af.chunk.css.map": "/funko-pop-collection/static/css/main.a95a05af.chunk.css.map",
+    "static/js/2.c88418dc.chunk.js.LICENSE.txt": "/funko-pop-collection/static/js/2.c88418dc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/funko-pop-collection/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b6c5b51.js",
+    "static/js/2.c88418dc.chunk.js",
+    "static/css/main.a95a05af.chunk.css",
+    "static/js/main.bb111543.chunk.js"
+  ]
 }
